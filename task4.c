@@ -1,6 +1,6 @@
-#include "task4.h"
-#include "task3.h"
-//#include "task1.h"
+#include "Task4.h"
+#include "Task3.h"
+#include "task1.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

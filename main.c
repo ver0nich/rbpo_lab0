@@ -22,9 +22,8 @@ int main(int argc, char* argv[]) {
         }
     }
 
-    Funks(a, count);
+    Table(a, count);
 
     getchar();
     return 0;
 }
-

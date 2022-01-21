@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "task5.h"
-//#include "task2.h"
+#include "task2.h"
 
-void Funks(struct Person persons[], size_t size){
+void Table(struct Person persons[], size_t size){
     int i = 0;
     for (i = 0; i < size; i++){
         printf("%s ", persons[i].firstName);
